@@ -4,7 +4,7 @@
 
 ## 📊 Project Overview
 
-This project presents an interactive sales and profitability analysis using a Superstore dataset (https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset?utm_source=chatgpt.com).  
+This project presents an interactive sales and profitability analysis using a Superstore dataset (https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset?).  
 The dashboard was built in Tableau and focuses on identifying key performance drivers across regions, categories, and customer segments in the United States.
 
 The goal of this project is to demonstrate business intelligence and data visualization skills through clean design, KPI tracking, and interactive filtering.
